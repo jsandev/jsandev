@@ -4,9 +4,8 @@
 Frontend Developer
 ------------------
 
-- 🔭 I’m currently working on Tutoom
+- 🔭 I’m currently working on [Tutoom](https://github.com/Tutoom)
 - 🌱 I’m currently learning Rust and Web3
-- ⚡ Fun fact: ...
 - 🌍 I'm based in Lima, Perú
 - ✉️ You can contact me at [jsandovaldev.pe@gmail.com](mailto:jsandovaldev.pe@gmail.com)
 
