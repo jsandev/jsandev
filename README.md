@@ -6,8 +6,8 @@ Experience with over 4 years in frontend, mobile, and backend development. Proac
 
 In the frontend, I have knowledge in **PHP** and I master the **JavaScript** programming language, working with leading technologies such as **React and Next.js.** My experience in mobile development includes creating applications for iOS and Android platforms using **React Native and Expo.** On the backend, I work with **Node.js and Express.js**, implementing REST API services for scalable and secure systems. Additionally, I have experience in databases such as **SQL Server, MySQL, PostgreSQL, and MongoDB.**
 
-### Frontend Skills
-<div style="display: 'none'">
+### 🤩 Frontend Skills
+<div>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="Javascript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="Javascript" />
   <img src="https://cdn.svgporn.com/logos/sass.svg" width="36" height="36" alt="Javascript" />
@@ -28,8 +28,8 @@ In the frontend, I have knowledge in **PHP** and I master the **JavaScript** pro
   <img src="https://cdn.svgporn.com/logos/testing-library.svg" width="36" height="36" alt="Javascript" />
 </div>
 
-### Backend Skills
-<div style="display: 'none'">
+### 🖥️ Backend Skills
+<div>
   <img src="https://cdn.svgporn.com/logos/nodejs.svg" width="36" height="36" alt="Javascript" />
   <img src="https://cdn.svgporn.com/logos/express.svg" width="36" height="36" alt="Javascript" />
   <img src="https://cdn.svgporn.com/logos/webrtc.svg" width="36" height="36" alt="Javascript" />
@@ -45,8 +45,8 @@ In the frontend, I have knowledge in **PHP** and I master the **JavaScript** pro
   <img src="https://cdn.svgporn.com/logos/swagger.svg" width="36" height="36" alt="Javascript" />
 </div>
 
-### Mobile Skills
-<div style="display: 'none'">
+### 📱 Mobile Skills
+<div>
   <img src="https://luminfire.com/wp-content/uploads/2017/12/React_Native_Logo.png" width="180" height="36" alt="Javascript" />  
   <img src="https://cdn.svgporn.com/logos/expo.svg" width="36" height="36" alt="Javascript" />
   <img src="https://cdn.svgporn.com/logos/javascript.svg" width="36" height="36" alt="Javascript" />
@@ -57,8 +57,18 @@ In the frontend, I have knowledge in **PHP** and I master the **JavaScript** pro
 </div>
 
 
-### Connect with me
+### 🤙 Connect with me
 
 <a href="https://www.linkedin.com/in/jimmysandovalramirez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/iam_sam0610" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.twitter.com/iam_sam0610" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+
+### Projects
+
+### <a style="font-style: underline" href="https://flipinversiones.com/" target="_blank" rel="noreferrer">Flip Inversiones:</a>
+
+<a href="https://flipinversiones.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jsandev/jsandev/main/flip.png" width="200" /> </a>
+
+It is a mobile app (iOS and Android) where you can subscribe to, redeem, and monitor your investments in the mutual funds of the Independent SAF company.
+
+Aptitudes: **React Native • Expo • React • Typescript • React Navigation • Redux Toolkit • React Hook Form**
 
