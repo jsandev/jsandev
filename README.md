@@ -1,5 +1,6 @@
+![Banner](https://raw.githubusercontent.com/jsandev/jsandev/main/banner.png)
 
-### Hi 👋 My name is Jimmy Sandoval
+### Hi 👋
 
 Experience with over 4 years in frontend, mobile, and backend development. Proactive, efficient and with the mentality of acquiring new knowledge and challenges.
 
@@ -27,13 +28,8 @@ In the frontend, I have knowledge in **PHP** and I master the **JavaScript** pro
 </p>
 
 
-### Socials
+### Connect with me
 
-<a href="http://www.instagram.com/iam_sam0610" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jimmysandovalramirez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/iam_sam0610" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/jsandev"><img src="https://github-readme-stats.vercel.app/api?username=jsandev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jsandev's GitHub stats" /></a>
+<a href="https://www.linkedin.com/in/jimmysandovalramirez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/iam_sam0610" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
