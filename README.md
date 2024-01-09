@@ -1,12 +1,9 @@
 
 ### Hi 👋 My name is Jimmy Sandoval
 
-Frontend Developer
-------------------
+Experience with over 4 years in frontend, mobile, and backend development. Proactive, efficient and with the mentality of acquiring new knowledge and challenges.
 
-- 🔭 I’m currently working on [Tutoom](https://github.com/Tutoom)
-- 🌍 I'm based in Lima, Perú
-- ✉️ You can contact me at [jsandovaldev.pe@gmail.com](mailto:jsandovaldev.pe@gmail.com)
+In the frontend, I have knowledge in **PHP** and I master the **JavaScript** programming language, working with leading technologies such as **React and Next.js.** My experience in mobile development includes creating applications for iOS and Android platforms using **React Native and Expo.** On the backend, I work with **Node.js and Express.js**, implementing REST API services for scalable and secure systems. Additionally, I have experience in databases such as **SQL Server, MySQL, PostgreSQL, and MongoDB.**
 
 ### Skills
 
