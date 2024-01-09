@@ -16,7 +16,7 @@ In the frontend, I have knowledge in **PHP** and I master the **JavaScript** pro
   <img src="https://cdn.svgporn.com/logos/php.svg" width="36" height="36" alt="Javascript" />
   <img src="https://cdn.svgporn.com/logos/astro-icon.svg" width="36" height="36" alt="Javascript" />
   <img src="https://cdn.svgporn.com/logos/react.svg" width="36" height="36" alt="Javascript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Javascript" />
+  <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width="36" height="36" alt="Javascript" />
   <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" width="36" height="36" alt="Javascript" />
   <img src="https://cdn.svgporn.com/logos/bootstrap.svg" width="36" height="36" alt="Javascript" />
   <img src="https://cdn.svgporn.com/logos/firebase.svg" width="36" height="36" alt="Javascript" />
