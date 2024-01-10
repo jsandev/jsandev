@@ -26,6 +26,8 @@ In the frontend, I have knowledge in **PHP** and I master the **JavaScript** pro
   <img src="https://cdn.svgporn.com/logos/storybook-icon.svg" width="36" height="36" alt="Javascript" />
   <img src="https://cdn.svgporn.com/logos/apollostack.svg" width="36" height="36" alt="Javascript" />
   <img src="https://cdn.svgporn.com/logos/testing-library.svg" width="36" height="36" alt="Javascript" />
+  <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" width="36" height="36" alt="Javascript" />
+  <img src="https://raw.githubusercontent.com/jsandev/jsandev/main/react-hook-form.png" width="36" height="36" alt="Javascript" />
 </div>
 
 ### 🖥️ Backend Skills
@@ -54,6 +56,7 @@ In the frontend, I have knowledge in **PHP** and I master the **JavaScript** pro
   <img src="https://cdn.svgporn.com/logos/react.svg" width="36" height="36" alt="Javascript" />
   <img src="https://cdn.svgporn.com/logos/redux.svg" width="36" height="36" alt="Javascript" />
   <img src="https://reactnavigation.org/img/spiro.svg" width="36" height="36" alt="Javascript" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/e/ed/TestFlight_Icon.png" width="36" height="36" alt="Javascript" />
 </div>
 
 
