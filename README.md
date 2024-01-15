@@ -75,3 +75,9 @@ It is a mobile app (iOS and Android) where you can subscribe to, redeem, and mon
 
 Aptitudes: **React Native • Expo • React • Typescript • React Navigation • Redux Toolkit • React Hook Form**
 
+### <a style="font-style: underline" href="https://www.animalsfrends.io" target="_blank" rel="noreferrer">Animal Frends:</a>
+
+Landing page for a collection of 10,000 unique and irreplicable NFTs, located on the Ethereum blockchain.
+
+Aptitudes: **HTML5 • React • Nextjs • Typescript • TailwindCss**
+
