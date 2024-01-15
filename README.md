@@ -77,6 +77,8 @@ Aptitudes: **React Native • Expo • React • Typescript • React Navigation
 
 ### <a style="font-style: underline" href="https://www.animalsfrends.io" target="_blank" rel="noreferrer">Animal Frends:</a>
 
+<a href="https://www.animalsfrends.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jsandev/jsandev/main/animals-frends.png" width="200" /> </a>
+
 Landing page for a collection of 10,000 unique and irreplicable NFTs, located on the Ethereum blockchain.
 
 Aptitudes: **HTML5 • React • Nextjs • Typescript • TailwindCss**
